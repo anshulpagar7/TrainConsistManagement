@@ -71,6 +71,6 @@ Regex Validation
 Sorting and Searching Algorithms
 Unit Testing
 Git Branching Strategy
-📢 Conclusion
+📢 Conclusion.
 
 This project demonstrates a complete end-to-end Java application covering fundamental to advanced concepts, combined with real-world development practices like testing and version control.
